@@ -1,4 +1,4 @@
-# RailsCasts Example Application
+# Style Calender Prototype
 
 Run these commands to try it out.
 
